@@ -46,7 +46,7 @@
     <br />
     <a href="https://github.com/ReubenHawley/Loan-Calculator">View Demo</a>
     ·
-    <a href="https://github.com/ReubenHawley/Loan-Calculator/issues">Loan-Calculatorrt Bug</a>
+    <a href="https://github.com/ReubenHawley/Loan-Calculator/issues">Report Bug</a>
     ·
     <a href="https://github.com/ReubenHawley/Loan-Calculator/issues">Request Feature</a>
   </p>
